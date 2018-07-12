@@ -1,0 +1,44 @@
+.footer-row {
+    background-color: #AFAFAF;
+    font-size: 0.65em;
+}
+
+.copyright {
+    font-size: 1em;
+}
+
+.top-row{
+    padding: 10px 0 0 0;
+} 
+
+.bottom-row {
+    padding: 0 0 20px 0;
+}
+
+h5{
+    font-size: 1em;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+
+address {
+    font-size: 0.85em;
+    font-weight: bold;
+}
+
+.social {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}

@@ -1,0 +1,31 @@
+.navbar-nav .active a {
+    background-color: #171D7C;
+    color: #FFFFFF;
+}
+
+.navbar {
+    margin-bottom:0px;
+    border-radius: 0;
+    background-color: #2F3BA1;
+    border-bottom: 1px solid #1E2458;
+    font-size: 0.68em;
+    font-family:Helvetica;
+    min-height:34px;
+    max-height:34px;
+    height:34px;
+}
+.navbar-brand {
+    padding-left:0px;
+}
+
+.navbar-nav li a {
+    padding:6px 10px 6px 10px;
+    color:#9D9D9D;
+    font-weight:bold;
+}
+
+.navbar-brand {
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
